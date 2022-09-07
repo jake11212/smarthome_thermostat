@@ -1,0 +1,12 @@
+MCU: 
+-nRF52832
+
+Peripheral:
+-thermometer: mcp
+-lcd: 3444-AMC0802BR-B-Y6WFDY-I2C-ND‎
+‎AMC0802BR-B-Y6WFDY-I2C‎
+LCD COB CHAR 8X2 Y/G TRANSF I2Cpdf/CharFull/AMC0802D-full.pdf
+
+
+-servo: https://www.amazon.com/dp/B07FY9KXB5?psc=1&smid=A19TVI3M6WFVG7&ref_=chk_typ_imgToDp
+	-controller: L298N
